@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://Hugo-Lopes-7.github.io/website-2/source-1.html</loc>
+    <lastmod>2026-11-04T20:24:10.201Z</lastmod>
+  </url>
+  <url>
     <loc>https://Hugo-Lopes-7.github.io/website-2/index.html</loc>
-    <lastmod>2026-11-04T16:29:24.639Z</lastmod>
+    <lastmod>2026-11-04T20:36:55.450Z</lastmod>
   </url>
   <url>
     <loc>https://Hugo-Lopes-7.github.io/website-2/about.html</loc>
     <lastmod>2026-11-04T16:44:39.532Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Hugo-Lopes-7.github.io/website-2/source-2.html</loc>
+    <lastmod>2026-11-04T20:24:10.210Z</lastmod>
   </url>
 </urlset>
